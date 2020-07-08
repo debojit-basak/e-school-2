@@ -1,0 +1,23 @@
+.button{
+    background-color: green;
+    border: none;
+    border-radius: 20px;
+}
+.red
+{
+    color: red;
+}
+.green-text{
+    color: rgb(28, 160, 28);
+}
+.ill{
+    width: 100%;
+}
+.heading{
+    text-align: center;
+}
+
+.box{
+    background-color: #F8FFFB;
+    height: 200px;
+}
